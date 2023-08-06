@@ -33,6 +33,7 @@ Namespace dcPrevent
             Me.chkFilterDoubleClicks.TabIndex = 0
             Me.chkFilterDoubleClicks.Text = "Filter Double Clicks"
             Me.chkFilterDoubleClicks.UseVisualStyleBackColor = True
+            Mc.chkFilterDoubleClicks.Visibile = false
             '
             'lstLogs
             '
@@ -68,7 +69,7 @@ Namespace dcPrevent
             Me.MaximizeBox = False
             Me.MinimizeBox = False
             Me.Name = "frmOptions"
-            Me.Text = "Options"
+            Me.Text = "Lolcus prevent for Inertia :)"
             Me.ResumeLayout(False)
             Me.PerformLayout()
 
